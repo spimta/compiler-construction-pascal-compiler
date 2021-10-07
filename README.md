@@ -2,7 +2,7 @@
 
 To compile
 
-python main.py <pascal file directory>
+python main.py \<pascal file directory\>
 
 or 
 
